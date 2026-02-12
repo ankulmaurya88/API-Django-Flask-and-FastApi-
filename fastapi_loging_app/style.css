@@ -1,0 +1,13 @@
+header{
+
+    background:red;
+    padding: auto;
+    h1 {
+        background-color: #000;
+        color: #a5a0a0;
+        display: inline-block;
+        padding-left: 20%;
+        bottom: 0%;
+        z-index: ;
+    }
+}
